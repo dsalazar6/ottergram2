@@ -93,7 +93,7 @@ a {
 }
 
 .detail-image {
-  width: 90%;
+  width: 80%;
 }
 
 .detail-image-title {
@@ -104,4 +104,18 @@ a {
   color: white;
   text-shadow: rgba(0, 0, 0, 0.9) 1px 2px 9px;
   font-size: 40px;
+}
+
+.previous {
+    background-color: #f1f1f1;
+    color: blue;
+    font-family: airstreamregular;
+    font-size: 36px;
+}
+
+.next {
+    background-color: #1122ff;
+    color: white;
+    font-family: airstreamregular;
+    font-size: 36px;
 }
